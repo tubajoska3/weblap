@@ -1,0 +1,14 @@
+body {
+    max-width: 100%;
+}
+h1 {
+    text-align: center;
+    margin: 2rem 0;
+}
+h4 {
+    text-align: center;
+    margin-top: 20px;
+}
+.container {
+    margin: 0px auto;
+}
